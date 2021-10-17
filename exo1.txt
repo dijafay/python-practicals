@@ -1,0 +1,120 @@
+    1  sudo -u
+    2  sudo su
+    3  cd Documents/
+    4  ls
+    5  cd Li
+    6  cd linux-UFRII-drv-v500-uken/
+    7  ls
+    8  sudo chmod + x install.sh 
+    9  sudo chmod install.sh 
+   10  sudo chmod +x install.sh 
+   11  ls
+   12  sudo ./install.sh 
+   13  sudo passwd aimssn 
+   14  sudo apt install texmaker
+   15  sudo apt update --fix-missing
+   16  sudo apt install texmaker
+   17  cd Téléchargements/
+   18  ls
+   19  sudo apt install ./zoom_amd64.deb 
+   20  cd
+   21  sudo apt install jupyter-notebook
+   22  sudo apt install sagewath
+   23  sudo apt install sagemath
+   24  ls
+   25  echo "Hello world"
+   26  git--help
+   27  cd
+   28  mkdir simplestats
+   29  cd simplestats
+   30  git init
+   31  ls
+   32  ls -a
+   33  ls -A
+   34  cd .git
+   35  git unif
+   36  sudo apt-get install git
+   37  cd git
+   38  cd .git
+   39  ls -a
+   40  ls -A
+   41  git status
+   42  mkdir python-try
+   43  cd pyhon-try
+   44  /python-try$ touch first-pyhon.py
+   45  ls
+   46  cd py
+   47  cd python-try.py
+   48  /python-try$ touch first-python.py
+   49  /python-try$ gedit first-python.py
+   50  cd python-try
+   51  python3
+   52  gedit 0C
+   53  python3
+   54  jupyter-notebook
+   55  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   56  cd shell-lesso
+   57  ls
+   58  mkdir shell-lesson
+   59  cd shell-lesso
+   60  cd Dossier personnel
+   61  cd shell-lesson
+   62  echo "i'm so happy"
+   63  ls
+   64  wd
+   65  pwd
+   66  tree
+   67  sudo snap install tree
+   68  tree
+   69  ls-R
+   70  ls-a
+   71  whoami
+   72  cd pwd
+   73  ..
+   74  ../
+   75  cd path_to/.../shell-lesson
+   76  shell-lesson /home/.../shell-lesson/
+   77  touch testfile
+   78  ls
+   79  rm testfile
+   80  ls
+   81  ~shell
+   82  ls~
+   83  ls..
+   84  ls../../
+   85  ls*1
+   86  ls *1
+   87  ls *4*1
+   88  ls
+   89  mkdir unix
+   90  ls
+   91  cd unix
+   92  touch foo.txt
+   93  ls 
+   94  cp foo.txt foo-copy.txt
+   95  ls
+   96  mv foo.copy.txt foo2.txt
+   97  mv foo-copy.txt foo2.txt
+   98  ls
+   99  mkdir data
+  100  ls
+  101  mv foo2.txt data
+  102  ls
+  103  mkdir new
+  104  mv data/foo2 new
+  105  mv foo2 new
+  106  mv data/foo2.txt new
+  107  mv foo2.txt unix
+  108  mv new/foo2.txt unix
+  109  ls
+  110  ls data
+  111  tree data
+  112  tree new
+  113  tree unix
+  114  mv unix foo-old.txt
+  115  ls
+  116  rm foo-old.txt
+  117  ls
+  118  rmdir new
+  119  ls
+  120  history >> exo1.txt
